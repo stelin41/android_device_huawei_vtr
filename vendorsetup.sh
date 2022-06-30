@@ -1,3 +1,0 @@
-add_lunch_combo lineage_vtr-user
-add_lunch_combo lineage_vtr-userdebug
-add_lunch_combo lineage_vtr-eng
