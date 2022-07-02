@@ -14,10 +14,5 @@
 # limitations under the License.
 #
 
-COMMON_LUNCH_CHOICES := \
-    lineage_vtr-user \
-    lineage_vtr-userdebug \
-    lineage_vtr-eng
-
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_vtr.mk
